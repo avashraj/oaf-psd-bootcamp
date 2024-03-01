@@ -10,4 +10,4 @@ def isPrime(n):
     else:
         return False
 
-print(isPrime(1111))
+
