@@ -1,2 +1,3 @@
 .cache.sqlite
 .pytest_cache
+main-project/plan.txt
